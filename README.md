@@ -16,7 +16,7 @@ This is first version:
 To install server.js, simply enter the below in the terminal window:
 
 ```bash
-$ git clone https://github.com/burcinguzel/fcc-url-shortener-microservice.git
+$ git clone https://github.com/burcinguzel/fcc-file-metadata-microserver.git
 ```
 
 To install the dependencies, enter the following in your terminal:
